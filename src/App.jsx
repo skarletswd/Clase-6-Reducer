@@ -1,8 +1,10 @@
+import Tareas from "./Tareas";
+
 function App() {
 
   return (
     <>
-      <h1>App</h1>
+      <Tareas />
     </>
   )
 }
